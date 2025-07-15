@@ -113,7 +113,3 @@ Results are saved in `server/results/{domain}/`:
 - `{domain}_reconnaissance_report.json` - Complete results
 - `{domain}_subdomains.csv` - Subdomain list in CSV format
 - `{domain}_amass_results.text` - Raw Amass output (if available)
-
-## License
-
-MIT 
