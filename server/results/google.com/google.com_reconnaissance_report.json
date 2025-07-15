@@ -1,0 +1,527 @@
+{
+  "domain": "google.com",
+  "timestamp": "2025-07-15T21:29:32.104096",
+  "total_subdomains": 25,
+  "active_subdomains": 14,
+  "subdomains": [
+    {
+      "subdomain": "www.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.4"
+      ]
+    },
+    {
+      "subdomain": "mail.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AdBytiPcFZdPXXCTBk3QAUwpBZqzU4RoGILgFxZumi7z3NvKOrbwmiy9F6zRW3rslc71uOcOlBc4Wg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1006012614%3A1752595493833173",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.182.69"
+      ]
+    },
+    {
+      "subdomain": "ftp.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "admin.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fadmin.google.com%2F&followup=https%3A%2F%2Fadmin.google.com%2F&ifkv=AdBytiPXvlMrRZVp3cdIYTz5vad8odUCnWH6_EYVod5ksqHHPcwP1AzwfB-pO1a_FCuJJo3WD4tUVg&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1492387693%3A1752595500883206",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.14"
+      ]
+    },
+    {
+      "subdomain": "api.google.com",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://api.google.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.43.132"
+      ]
+    },
+    {
+      "subdomain": "app.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "dev.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "test.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "staging.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "blog.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://blog.google/",
+      "server": "Google Frontend",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "172.217.24.9"
+      ]
+    },
+    {
+      "subdomain": "shop.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/shopping",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.10.92"
+      ]
+    },
+    {
+      "subdomain": "store.google.com",
+      "http_status": 200,
+      "https_status": null,
+      "active": true,
+      "redirects_to": "https://store.google.com/?hl=en-IN",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.46"
+      ]
+    },
+    {
+      "subdomain": "forum.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "support.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.google.com/",
+      "server": "support-content-ui",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.14"
+      ]
+    },
+    {
+      "subdomain": "help.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.google.com/",
+      "server": "support-content-ui",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.222.174"
+      ]
+    },
+    {
+      "subdomain": "docs.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=AdBytiOIhOYYDSlzNtvnzKfDi284XXny-CXbV7iW6EgzsmNcOdqxUtphHZExTLWUWDJ5J4f5t5UIWA&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-215086238%3A1752595491998745",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.67.46"
+      ]
+    },
+    {
+      "subdomain": "cdn.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "static.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "assets.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "images.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://images.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.174"
+      ]
+    },
+    {
+      "subdomain": "media.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "files.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://files.google.com/",
+      "server": "sffe",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.46"
+      ]
+    },
+    {
+      "subdomain": "download.google.com",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://download.google.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.77.132"
+      ]
+    },
+    {
+      "subdomain": "uploads.google.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "108.170.217.160"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.221.110"
+      ]
+    }
+  ],
+  "active_hosts": [
+    {
+      "subdomain": "www.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.4"
+      ]
+    },
+    {
+      "subdomain": "mail.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&emr=1&followup=https%3A%2F%2Fmail.google.com%2Fmail%2Fu%2F0%2F&ifkv=AdBytiPcFZdPXXCTBk3QAUwpBZqzU4RoGILgFxZumi7z3NvKOrbwmiy9F6zRW3rslc71uOcOlBc4Wg&osid=1&passive=1209600&service=mail&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1006012614%3A1752595493833173",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.182.69"
+      ]
+    },
+    {
+      "subdomain": "admin.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fadmin.google.com%2F&followup=https%3A%2F%2Fadmin.google.com%2F&ifkv=AdBytiPXvlMrRZVp3cdIYTz5vad8odUCnWH6_EYVod5ksqHHPcwP1AzwfB-pO1a_FCuJJo3WD4tUVg&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-1492387693%3A1752595500883206",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.14"
+      ]
+    },
+    {
+      "subdomain": "api.google.com",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://api.google.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.43.132"
+      ]
+    },
+    {
+      "subdomain": "blog.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://blog.google/",
+      "server": "Google Frontend",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "172.217.24.9"
+      ]
+    },
+    {
+      "subdomain": "shop.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/shopping",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.10.92"
+      ]
+    },
+    {
+      "subdomain": "store.google.com",
+      "http_status": 200,
+      "https_status": null,
+      "active": true,
+      "redirects_to": "https://store.google.com/?hl=en-IN",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.46"
+      ]
+    },
+    {
+      "subdomain": "support.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.google.com/",
+      "server": "support-content-ui",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.223.14"
+      ]
+    },
+    {
+      "subdomain": "help.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.google.com/",
+      "server": "support-content-ui",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.222.174"
+      ]
+    },
+    {
+      "subdomain": "docs.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fdocs.google.com%2F&emr=1&followup=https%3A%2F%2Fdocs.google.com%2F&ifkv=AdBytiOIhOYYDSlzNtvnzKfDi284XXny-CXbV7iW6EgzsmNcOdqxUtphHZExTLWUWDJ5J4f5t5UIWA&osid=1&passive=1209600&flowName=WebLiteSignIn&flowEntry=ServiceLogin&dsh=S-215086238%3A1752595491998745",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.67.46"
+      ]
+    },
+    {
+      "subdomain": "images.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://images.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.174"
+      ]
+    },
+    {
+      "subdomain": "files.google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://files.google.com/",
+      "server": "sffe",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.46"
+      ]
+    },
+    {
+      "subdomain": "download.google.com",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://download.google.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.77.132"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.251.221.110"
+      ]
+    }
+  ],
+  "errors": []
+}

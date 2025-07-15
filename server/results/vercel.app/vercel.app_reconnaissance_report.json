@@ -1,0 +1,746 @@
+{
+  "domain": "vercel.app",
+  "timestamp": "2025-07-15T21:00:44.607728",
+  "total_subdomains": 25,
+  "active_subdomains": 24,
+  "subdomains": [
+    {
+      "subdomain": "www.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://vercel.com",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.3",
+        "64.29.17.3"
+      ]
+    },
+    {
+      "subdomain": "mail.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://mail.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "ftp.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://ftp.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "admin.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://admin.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "api.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://api.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "app.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://app.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "dev.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://dev.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "test.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://nexion.xyz/",
+      "server": "cloudflare",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "staging.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://staging.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "blog.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://blog.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "shop.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://shop.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.131",
+        "216.198.79.131"
+      ]
+    },
+    {
+      "subdomain": "store.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://store.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "forum.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://forum.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "support.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "help.vercel.app",
+      "http_status": 401,
+      "https_status": 401,
+      "active": true,
+      "redirects_to": "https://help.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "docs.vercel.app",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "cdn.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://cdn.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "static.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://static.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "assets.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://assets.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.131",
+        "216.198.79.131"
+      ]
+    },
+    {
+      "subdomain": "images.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://images.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "media.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://media.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "files.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://files.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.3",
+        "216.198.79.3"
+      ]
+    },
+    {
+      "subdomain": "download.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://download.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.3",
+        "64.29.17.3"
+      ]
+    },
+    {
+      "subdomain": "uploads.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://uploads.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://vercel.com",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    }
+  ],
+  "active_hosts": [
+    {
+      "subdomain": "www.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://vercel.com",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.3",
+        "64.29.17.3"
+      ]
+    },
+    {
+      "subdomain": "mail.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://mail.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "ftp.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://ftp.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "admin.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://admin.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "api.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://api.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "app.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://app.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "dev.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://dev.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "test.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://nexion.xyz/",
+      "server": "cloudflare",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "staging.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://staging.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    },
+    {
+      "subdomain": "blog.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://blog.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "shop.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://shop.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.131",
+        "216.198.79.131"
+      ]
+    },
+    {
+      "subdomain": "store.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://store.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "forum.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://forum.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "support.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://support.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "help.vercel.app",
+      "http_status": 401,
+      "https_status": 401,
+      "active": true,
+      "redirects_to": "https://help.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "cdn.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://cdn.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.67",
+        "64.29.17.67"
+      ]
+    },
+    {
+      "subdomain": "static.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://static.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.131",
+        "64.29.17.131"
+      ]
+    },
+    {
+      "subdomain": "assets.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://assets.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.131",
+        "216.198.79.131"
+      ]
+    },
+    {
+      "subdomain": "images.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://images.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "media.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://media.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.67",
+        "216.198.79.67"
+      ]
+    },
+    {
+      "subdomain": "files.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://files.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.3",
+        "216.198.79.3"
+      ]
+    },
+    {
+      "subdomain": "download.vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://download.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.3",
+        "64.29.17.3"
+      ]
+    },
+    {
+      "subdomain": "uploads.vercel.app",
+      "http_status": 404,
+      "https_status": 404,
+      "active": true,
+      "redirects_to": "https://uploads.vercel.app/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "216.198.79.195",
+        "64.29.17.195"
+      ]
+    },
+    {
+      "subdomain": "vercel.app",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://vercel.com",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "64.29.17.195",
+        "216.198.79.195"
+      ]
+    }
+  ],
+  "errors": []
+}
