@@ -1,0 +1,102 @@
+{
+	"info": {
+		"_postman_id": "7cf4b381-4442-429e-9c61-21a969d29f00",
+		"name": "Reconnaissance",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "37509546"
+	},
+	"item": [
+		{
+			"name": "Home",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000"
+				},
+				"description": "This is just the / API call"
+			},
+			"response": []
+		},
+		{
+			"name": "Reconnaissance API",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"domain\": \"google.com\",\r\n    \"timeout\": 300,\r\n    \"workers\": 20,\r\n    \"verbose\": false,\r\n    \"jsonOnly\": true,\r\n    \"csvOnly\": false\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:3000/api/reconnaissance",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"reconnaissance"
+					]
+				},
+				"description": "This reconnaissance API let's you extract the data from the domain, timeout, workers, verbose, jsonOnly, csvOnly values you provide."
+			},
+			"response": []
+		},
+		{
+			"name": "Result Download",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/results/vercel.app",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"results",
+						"vercel.app"
+					]
+				},
+				"description": "This lets you to download those domain specific results"
+			},
+			"response": []
+		},
+		{
+			"name": "Results of Specific domain",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/api/results/google.com/download",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"api",
+						"results",
+						"google.com",
+						"download"
+					]
+				},
+				"description": "This helps you to see the domain specific results"
+			},
+			"response": []
+		}
+	]
+}
