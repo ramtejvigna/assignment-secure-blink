@@ -53,8 +53,7 @@ const validateDomain = [
     body('domain')
         .isLength({ min: 1 })
         .withMessage("Domain is required")
-        .matches(/^[a-zA-Z0-9][a-zA-Z0-9\-]{0,61}[a-zA-Z0-9]?\.[a-zA-Z]{2,}$/)
-        .withMessage("Invalid domain format"),
+        .matches(/^[a-zA-Z0-9][a-zA-Z0-9\-]{0,61}[a-zA-Z0-9]?\.[a-zA-Z]{2,}$/),
 
     body('timeout')
         .optional()
@@ -176,6 +175,10 @@ app.post('/api/reconnaissance', validateDomain, async (req, res) => {
     } = req.body;
 
     try {
+        if(!domain || !workers || !timeout) {
+            return res.status(400).json({ message: "Invalid request!!! missing parameters"});
+        }
+
         const resultsDir = await ensureDirectoryExists(path.join(__dirname, "results", domain));
         
         const startTime = Date.now();

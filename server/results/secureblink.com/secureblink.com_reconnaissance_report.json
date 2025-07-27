@@ -1,0 +1,368 @@
+{
+  "domain": "secureblink.com",
+  "timestamp": "2025-07-25T16:14:17.455266",
+  "total_subdomains": 25,
+  "active_subdomains": 4,
+  "subdomains": [
+    {
+      "subdomain": "www.secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.secureblink.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "108.159.15.84",
+        "108.159.15.91",
+        "108.159.15.34",
+        "108.159.15.30"
+      ]
+    },
+    {
+      "subdomain": "mail.secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://mail.secureblink.com/",
+      "server": "Caddy",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "34.91.249.129"
+      ]
+    },
+    {
+      "subdomain": "ftp.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "admin.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "api.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "app.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "dev.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "test.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "staging.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "blog.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "shop.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "store.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "forum.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "support.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "help.secureblink.com",
+      "http_status": 403,
+      "https_status": 403,
+      "active": true,
+      "redirects_to": "https://help.secureblink.com/",
+      "server": "cloudflare",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "104.18.22.249",
+        "104.18.23.249"
+      ]
+    },
+    {
+      "subdomain": "docs.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "cdn.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "static.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "assets.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "images.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "media.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "files.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "download.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "uploads.secureblink.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.secureblink.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "108.159.15.30",
+        "108.159.15.91",
+        "108.159.15.34",
+        "108.159.15.84"
+      ]
+    }
+  ],
+  "active_hosts": [
+    {
+      "subdomain": "www.secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.secureblink.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "108.159.15.84",
+        "108.159.15.91",
+        "108.159.15.34",
+        "108.159.15.30"
+      ]
+    },
+    {
+      "subdomain": "mail.secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://mail.secureblink.com/",
+      "server": "Caddy",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "34.91.249.129"
+      ]
+    },
+    {
+      "subdomain": "help.secureblink.com",
+      "http_status": 403,
+      "https_status": 403,
+      "active": true,
+      "redirects_to": "https://help.secureblink.com/",
+      "server": "cloudflare",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "104.18.22.249",
+        "104.18.23.249"
+      ]
+    },
+    {
+      "subdomain": "secureblink.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.secureblink.com/",
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "108.159.15.30",
+        "108.159.15.91",
+        "108.159.15.34",
+        "108.159.15.84"
+      ]
+    }
+  ],
+  "errors": []
+}

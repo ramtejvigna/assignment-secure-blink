@@ -15,7 +15,6 @@ logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler('reconnaissance.log'),
         logging.StreamHandler(sys.stdout)
     ]
 )
@@ -43,7 +42,6 @@ class Reconnaissance:
 
     def run_amass(self, timeout: int) -> List[str]:
         try:
-            # First check if amass is available (cross-platform)
             amass_check_cmd = ['where', 'amass'] if os.name == 'nt' else ['which', 'amass']
             amass_check = subprocess.run(amass_check_cmd, capture_output=True, text=True)
             if amass_check.returncode != 0:
@@ -286,8 +284,6 @@ def main():
     recon = Reconnaissance(args.domain, args.output_dir, args.timeout, args.workers)
 
     results = recon.run_reconnaissance()
-
-    print(json.dumps(results, indent=2, default=str))
 
 if __name__ == '__main__':
     sys.exit(main())

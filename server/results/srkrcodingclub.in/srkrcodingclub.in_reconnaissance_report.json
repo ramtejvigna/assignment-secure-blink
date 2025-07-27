@@ -1,0 +1,294 @@
+{
+  "domain": "srkrcodingclub.in",
+  "timestamp": "2025-07-21T11:38:43.381818",
+  "total_subdomains": 20,
+  "active_subdomains": 3,
+  "subdomains": [
+    {
+      "subdomain": "srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    },
+    {
+      "subdomain": "srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    },
+    {
+      "subdomain": "www.srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    },
+    {
+      "subdomain": "ns72.domaincontrol.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "173.201.73.46"
+      ]
+    },
+    {
+      "subdomain": "ns72.domaincontrol.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "173.201.73.46"
+      ]
+    },
+    {
+      "subdomain": "ns71.domaincontrol.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "97.74.105.46"
+      ]
+    },
+    {
+      "subdomain": "ns71.domaincontrol.com",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "97.74.105.46"
+      ]
+    },
+    {
+      "subdomain": "173.201.64.0/20",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "97.74.96.0/20",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "2603:5:2100::/40",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "76.76.21.0/24",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "2603:5:2290::/44",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "16509",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "16509",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    },
+    {
+      "subdomain": "44273",
+      "http_status": null,
+      "https_status": null,
+      "active": false,
+      "redirects_to": null,
+      "server": null,
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": false
+    }
+  ],
+  "active_hosts": [
+    {
+      "subdomain": "srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    },
+    {
+      "subdomain": "srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    },
+    {
+      "subdomain": "www.srkrcodingclub.in",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.srkrcodingclub.in/",
+      "server": "Vercel",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "76.76.21.21"
+      ]
+    }
+  ],
+  "errors": []
+}

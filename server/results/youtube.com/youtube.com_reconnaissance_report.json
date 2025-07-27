@@ -1,0 +1,291 @@
+{
+  "domain": "youtube.com",
+  "timestamp": "2025-07-25T14:43:58.183621",
+  "total_subdomains": 10,
+  "active_subdomains": 10,
+  "subdomains": [
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    }
+  ],
+  "active_hosts": [
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "google.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.google.com/",
+      "server": "gws",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.183.46"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    },
+    {
+      "subdomain": "youtube.com",
+      "http_status": 200,
+      "https_status": 200,
+      "active": true,
+      "redirects_to": "https://www.youtube.com/",
+      "server": "ESF",
+      "technologies": [],
+      "ip_address": null,
+      "dns_active": true,
+      "ip_addresses": [
+        "142.250.206.110"
+      ]
+    }
+  ],
+  "errors": []
+}
